@@ -13,3 +13,7 @@
     "build": "react-scripts build"
   }
 }
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build"
+}
